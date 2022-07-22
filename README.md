@@ -16,19 +16,19 @@ python3 main.py --list (README.md)
 
 ### categories
 
-kid
-wack
-ward
-stem
-love
-outside
-ford
-burroughs: nietzsche, thoreau, kierkegaard, james joyce, william james, james allen
-antiford
-intolerance
-inconceivablilty
-contradiction
-nature
-rituals
-still
-axioms
+kid  
+wack  
+ward  
+stem  
+love  
+outside  
+ford  
+burroughs: nietzsche, thoreau, kierkegaard, james joyce, william james, james allen  
+antiford  
+intolerance  
+inconceivablilty  
+contradiction  
+nature  
+rituals  
+still  
+axioms  

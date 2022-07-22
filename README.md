@@ -10,8 +10,8 @@ python3 main.py --category --number (selection)
 
 python3 main.py --list (README.md)
 
-/#TODO: 280 characters
-/#NOTE: command as comment on tweet
+#TODO: 280 characters
+#NOTE: command as comment on tweet
 
 ### categories
 
